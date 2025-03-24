@@ -1,0 +1,5 @@
+../*
+!../english_events_bot/
+.DS_Store
+__pycache__/
+*.pyc
